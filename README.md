@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a social media startup with friends<br>👯 I’m looking to collaborate on ML and healthcare projects <br>🤝 I’m looking for help with finding a Job after graduating<br>🌱 I’m currently learning about Neurofibromatosis type I<br>💬 Ask me about: Computer Engineering at UWaterloo<br>⚡ Fun fact: I'm a Voice Actor too!
+🔭 I’m currently working on a social media startup with friends and a Job board for my church<br>👯 I’m looking to collaborate on ML and healthcare projects <br>🤝 I’m looking for help with finding a Job after graduating<br>🌱 I’m currently learning about Neurofibromatosis type I<br>💬 Ask me about: Computer Engineering at UWaterloo<br>⚡ Fun fact: I'm a Voice Actor too!
 
 
 ## 🌐 Socials:
